@@ -1,4 +1,10 @@
 # Alexandr Kozel
+---
+ 
+## Contacts
 
-## RSschool student
-
+* **Location:** Belarus, Mozyr
+* **e-mail:** stealth.pro@gmail.com
+* **phone number:** +375 (29) 835-41-71
+* **GIT-hub:**
+  
